@@ -1,11 +1,10 @@
-# <img align="left" alt="Analytix" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/))
+# <img align="left" alt="Toolkit" width="100px" src="https://toolkit.ga/uploads/main/5cdeddfbbc0475069b90d88704248840.png" draggable="false" /> Analytix ([Click to try 🚀](https://toolkit.ga/))
 
-Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
+Toolkit ⚙️ - get a huge range of useful online tools ⛏️ for everyday use for free. 🧬
 
 
-
-## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
+## **[Changelog ⛏️](https://github.com/linkspreed/Toolkit/blob/main/changelog.md)** **Check out the full Toolkit changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Toolkit/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Toolkit besides development**
 
 
 <div align="center">
