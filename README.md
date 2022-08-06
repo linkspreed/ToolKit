@@ -14,38 +14,90 @@ Toolkit ⚙️ - get a huge range of useful online tools ⛏️ for everyday use
 
 ## Features
 
-**DASHBOARD** – Get an overview of your account and your tracked websites.
+**59 WEB TOOLS**
 
-**STATS** – Get specific statistics & analytics reports for a website:
-- Realtime
-- Overview
-- Behavior
-    - Pages
-    - Landing pages
-    
--Acquisitions
-    - Referrers
-    - Search engines
-    - Social networks
-    - Campaigns
-    
-- Geographic
-    - Continents
-    - Countries
-    - Cities
-    - Languages
-    
-- Technology
-    - Operating systems
-    - Browsers
-    - Screen resolutions
-    - Devices
-    
-- Events
+ - DNS lookup tool.
+ - IP lookup tool.
+ - SSL lookup tool.
+ - Whois lookup tool.
+ - Ping tool.
+ - MD5 generator tool.
+ - Base64 converter tool.
+ - Base64 image converter tool.
+ - URL converter tool.
+ - Lorem ipsum generator tool.
+ - Markdown to HTML tool.
+ - Case converter tool.
+ - UUID v4 generator tool.
+ - Bcrypt generator tool.
+ - Password generator tool.
+ - Password strength checker tool.
+ - Slug generator tool.
+ - HTML minifier tool.
+ - CSS minifier tool.
+ - JS minifier tool.
+ - User agent parser tool.
+ - Website hosting checker tool.
+ - Character counter tool.
+ - URL parser tool.
+ - Color converter tool.
+ - HTTP headers lookup tool.
+ - Duplicate lines remover tool.
+ - Text to speech tool.
+ - IDN punnycode converter tool.
+ - JSON validator & beautifier tool.
+ - QR code reader tool.
+ - Meta tags checker tool.
+ - Exif reader tool.
+ - SQL formatter/beautifier tool.
+ - HTML entity converter tool.
+ - Binary converter tool.
+ - Hex converter tool.
+ - MailTo link generator tool.
+ - YouTube thumbnail downloader tool.
+ - Google safe URL checker tool.
+ - Google cache checker tool.
+ - URL redirect checker tool.
+ - Whatsapp link generator tool.
+ - UTM link generator tool.
+ - Youtube Timestamp link generator tool.
+ - Email extractor tool.
+ - URL extractor tool.
+ - Image optimizer tool.
+ - Text separator tool.
+ - PayPal link generator tool.
+ - BBCode to HTML converter tool.
+ - Text size calculator tool.
+ - Decimal converter tool.
+ - Octal converter tool.
+ - Morse converter tool.
+ - ASCII converter tool.
+ - Fahrenheit to Celsius converter tool.
+ - Celsius to Fahrenheit converter tool.
+ - 11 SHA type generator tools.
+ - Kg to Lb converter tool.
+ - Lb to Kg converter tool.
+ - Mph to Kph converter tool.
+ - Kph to Mph converter tool.
+ - Signature generator tool.
+ - Km to Mi converter tool.
+ - Mi to Km converter tool.
+ - MD2 generator tool.
+ - MD4 generator tool.
+ - Whirlpool generator tool.
+ - HTML tags remover converter tool.
 
-**EXPORT** – Export your statistics & analytics reports in CSV format.
+**LOGIN WITH FACEBOOK / GOOGLE / TWITTER / DISCORD** – To help users login to your website faster.
 
-**NOTIFICATIONS** – Get periodic emails about your websites performance.
+**TWO FACTOR AUTHENTICATION** – To help your users with their account security.
+
+**DARK MODE**
+
+**RTL LANGUAGES SUPPORT**
+
+**SEO FRIENDLY** – Proper URLs, dynamic titles, highly controllable via per language.
+
+**SITEMAP** – The full sitemap is automatically generated for you and ready to be used.
 
 **AND SO MUCH MORE ...**
 
