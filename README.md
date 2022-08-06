@@ -1,4 +1,4 @@
-# <img align="left" alt="Toolkit" width="100px" src="https://toolkit.ga/uploads/main/5cdeddfbbc0475069b90d88704248840.png" draggable="false" /> Analytix ([Click to try 🚀](https://toolkit.ga/))
+# <img align="left" alt="Toolkit" width="100px" src="https://toolkit.ga/uploads/main/5cdeddfbbc0475069b90d88704248840.png" draggable="false" /> Toolkit ([Click to try 🚀](https://toolkit.ga/))
 
 Toolkit ⚙️ - get a huge range of useful online tools ⛏️ for everyday use for free. 🧬
 
