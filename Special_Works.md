@@ -1,9 +1,9 @@
-# 21.07.2022
-  - The new version 3.3.0 is publicly freely available. The changes are all in the changelog.
+# 06.08.2022
+  - All 59+ tools are now available for free on Toolkit - even without an account.
 
-# 21.07.2022
-  - We will release a **new version v3.3.0** soon.
+# 06.08.2022
+  - 🥳 On Toolkit, guests and users of the Free Unlimited plan now get all available tools for free.
 
-# 11.06.2022
-  - Today on June 11th, 2022 we connected and pushed **Analytix** to the Cloudflare infrastructure.
+# 31.07.2022
+  - Today on July 31th, 2022 we connected and pushed **Toolkit** to the Cloudflare infrastructure.
      - This improves both **speed** and **safety**.
