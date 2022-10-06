@@ -1,3 +1,6 @@
+# 06.10.2022
+- We will be releasing an update for Toolkit very soon.
+
 # 06.08.2022
   - All 59+ tools are now available for free on Toolkit - even without an account.
 
