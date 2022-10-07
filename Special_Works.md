@@ -1,4 +1,7 @@
-# 06.10.2022
+# 07.10.2022
+  - The toolkit servers are ready, the code is already in the starting blocks.
+
+# 07.10.2022
   - We are now finishing work on the new version for Toolkit.ga and then starting the launch. 😀
 
 # 06.10.2022
