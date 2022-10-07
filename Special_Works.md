@@ -1,4 +1,8 @@
 # 07.10.2022
+  - Now enjoy all 120+ tools from Toolkit completely free. 🚀
+  - You only need an account to use the API for developers (unlimited usage). 💻
+
+# 07.10.2022
   - We are now doing some extra special work for Toolkit.
 
 # 07.10.2022
