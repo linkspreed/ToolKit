@@ -1,4 +1,8 @@
 # 07.10.2022
+  - Version 7.0.0 of Toolkit has been released successfully. ❤️
+  - Use now all our 120+ free tools on https://toolkit.ga. 🚀
+
+# 07.10.2022
   - The toolkit servers are ready, the code is already in the starting blocks.
 
 # 07.10.2022
