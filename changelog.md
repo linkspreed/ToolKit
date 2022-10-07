@@ -1,3 +1,47 @@
+# Update 7.0.0 - 3 October, 2022
+ - Implemented BMP to WEBP, GIF, ICO, PNG, JPG tools.
+ - Implemented GIF to JPG, WEBP, ICO, PNG, BMP tools.
+ - Implemented ICO to JPG, GIF, PNG, WEBP, BMP tools.
+ - Reworked a few tools, splitted them into multiple tools for SEO purposes.
+ - Improved upload type fields: now it will specify the maximum size allowed.
+ - Updated some external libraries to their latest versions.
+ - Now you can install the product and use it on PHP 8.1 as well (please report if there are any related bugs).
+ - Fixed HTML, CSS, JS minifier tools issue.
+ - Fixed specific email sending with default webhost settings for Email notifications.
+ - Fixed Image Optimizer tool download button not working properly.
+ - Multiple code cleanups & improvements throughout the product.
+ 
+ # Update 6.0.0 - 10 September, 2022
+ - Implemented tools categories to the homepage.
+ - Reworked the admin panel user view page to see all the details available for a user account.
+ - Implemented the ability to see the source of registration of an account (social, API, normal).
+ - Implemented roman numerals to numbers tool.
+ - Implemented numbers to roman numerals tool.
+ - Implemented gallons to litters (Imperial + US) tool.
+ - Implemented liters to gallons (Imperial + US) tool.
+ - Implemented reverse IP lookup tool.
+ - Implemented JPG to WEBP, GIF, ICO, PNG, BMP tools.
+ - Implemented WEBP to JPG, GIF, ICO, PNG, BMP tools.
+ - Implemented PNG to JPG, GIF, ICO, WEBP, BMP tools.
+
+# Update 5.0.0 - 5 August, 2022
+ - Implemented similar tools widget suggestion for some tools.
+ - Implemented Kg to Lb converter tool.
+ - Implemented Lb to Kg converter tool.
+ - Implemented Mph to Kph converter tool.
+ - Implemented Kph to Mph converter tool.
+ - Implemented signature generator tool.
+ - Implemented Km to Mi converter tool.
+ - Implemented Mi to Km converter tool.
+ - Implemented 11 new SHA generator tools.
+ - Implemented MD2 generator tool.
+ - Implemented MD4 generator tool.
+ - Implemented Whirlpool generator tool.
+ - Reworked the QR code reader tool to make it work with more browsers.
+ - Fixed lorem ipsum tool not working.
+ - Fixed markdown to html tool not working.
+ - Fixed Two Factor Auth not working.
+
 # Update 4.0.0 - 10 July, 2022
  - Implemented PayPal link generator tool.
  - Implemented text size calculator tool.
