@@ -1,4 +1,7 @@
 # 06.10.2022
+  - We are now finishing work on the new version for Toolkit.ga and then starting the launch. 😀
+
+# 06.10.2022
   - Hard coding on Toolkit to release a great update very soon. 🚀
 
 # 06.10.2022
