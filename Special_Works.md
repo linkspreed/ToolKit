@@ -1,3 +1,7 @@
+# 08.10.2022
+  - Let's see how we might develop an affiliate plugin for Toolkit. 🤑
+  - Maybe it could be useful for the account for users and developers of the API.
+
 # 07.10.2022
   - Now enjoy all 120+ tools from Toolkit completely free. 🚀
   - You only need an account to use the API for developers (unlimited usage). 💻
