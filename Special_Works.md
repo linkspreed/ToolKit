@@ -1,4 +1,7 @@
 # 08.10.2022
+  - We're still doing general work on Toolkit.
+
+# 08.10.2022
   - Let's see how we might develop an affiliate plugin for Toolkit. 🤑
   - Maybe it could be useful for the account for users and developers of the API.
 
