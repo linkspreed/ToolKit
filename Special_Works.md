@@ -1,3 +1,6 @@
+# 13.10.2022
+  - We're working on some new feature for version 8.0.0.
+
 # 09.10.2022
   - We will now complete the general work on Toolkit.
 
