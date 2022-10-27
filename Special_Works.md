@@ -1,4 +1,8 @@
 ### 27.10.2022 (announcement Toolkit)
+- https://github.com/linkspreed/Toolkit/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 27.10.2022 (announcement Toolkit)
 - The launch of version 9.0.0 of **Toolkit** was successful! 🥳
 - The new update is live now :)
 - https://toolkit.ga 🔗
