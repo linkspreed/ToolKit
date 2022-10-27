@@ -1,3 +1,43 @@
+# Update 9.0.0 - 27 October, 2022
+ - Implemented unit converter tools for seconds, minutes, hours, days, weeks, months, years.
+ - Implemented celsius to kelvin converter tool.
+ - Implemented fahrenheit to kelvin converter tool.
+ - Implemented kelvin to celsius converter tool.
+ - Implemented kelvin to fahrenheit converter tool.
+ - Implemented date to unix timestamp converter tool.
+ - Implemented unix timestamp to date converter tool.
+ - Implemented Gravatar checker tool.
+ - Implemented email notifications for user deletion.
+ - Reworked all tools URL structure for a smaller, easier to write format.
+ - New users webhook will now send the source of the user as well.
+ - New payments webhook will now send the plan expiration date as well.
+ - Implemented the ability to change the user referred by from the admin panel user update page (affiliate plugin only).
+ - Cleaned & removed a lot of translations that were similar & duplicated.
+ - Registration prompts will not show on the homescreen anymore if the user is logged in.
+ - Taxes for payments can now be set with decimals.
+ - Fixed Paddle payments bug coming from Paddle changing their API.
+ - Fixed copy button not working in some tools.
+
+# Update 8.0.0 - 27 October, 2022
+ - Implemented 42 tools for HEX, HEXA, HSV, HSL, HSLA, RGB, RGBA conversions.
+ - Implemented color picker tool.
+ - Implemented number to words tool.
+ - Implemented file mime type checker tool.
+ - Implemented random number generator tool.
+ - Implemented text to upside down text tool.
+ - Implemented text to old english text tool.
+ - Implemented text to cursive text tool.
+ - Implemented list alphabetizer tool.
+ - Implemented reverse list tool.
+ - Implemented reverse words tool.
+ - Implemented reverse letters tool.
+ - Implemented emoji remover tool.
+ - Implemented list randomizer tool.
+ - Added colors for each category in the index.
+ - Improved theme switcher: now the logo will automatically switch as well.
+ - Blog category pages now also show a sidebar with widgets, for consistency purposes.
+ - Fixed blog post not properly setting the opengraph image for social networks.
+
 # Update 7.0.0 - 3 October, 2022
  - Implemented BMP to WEBP, GIF, ICO, PNG, JPG tools.
  - Implemented GIF to JPG, WEBP, ICO, PNG, BMP tools.
