@@ -1,4 +1,7 @@
 ### 27.10.2022 (announcement Toolkit)
+- The servers are now ready for the launch of version 9.0.0 for **Toolkit**.
+
+### 27.10.2022 (announcement Toolkit)
 - The code is now ready for the launch of version 9.0.0 for **Toolkit**.
 
 ### 27.10.2022 (announcement Toolkit)
