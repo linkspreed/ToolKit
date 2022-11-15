@@ -1,3 +1,6 @@
+### 15.11.2022 (announcement Toolkit)
+- We are working on many new updates - also on an update for **Toolkit** :D
+
 ### 27.10.2022 (announcement Toolkit)
 - https://github.com/linkspreed/Toolkit/blob/main/changelog.md
 - The entire changelog is now available on Github.
