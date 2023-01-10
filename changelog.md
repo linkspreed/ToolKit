@@ -1,3 +1,43 @@
+# Update 13.0.0 - 10 January, 2023
+Make sure to re-configure your plans settings for the new additional domains configuration.
+ - Implemented all kibibits to other computer data combinations
+ - Implemented all kilobytes to other computer data combinations
+ - Implemented the ability to set Meta keywords for blog posts.
+ - Implemented the ability to set Meta keywords for individual pages.
+ - Implemented the ability to toggle the publishing status for blog posts.
+ - Implemented the ability to toggle the publishing status for individual pages.
+ - Implemented Order by last updated time filters for all resources.
+ - Fully reworked the UI of some sections
+
+# Update 12.0.0 - 10 January, 2023
+ - Implemented all kilobits to other computer data combinations
+ - Implemented the ability to show/hide the plans section on the homepage.
+ - Reworked URL redirection for better UX: When you access a page without being logged in, now you will be able to login and automatically be redirected to your initial requested page.
+ - Reworked all the Yes/No form selectors to switches, for better UX (1 less mouse click).
+ - Reworked UI pricing plans for tools.
+ - Fixed blog category page bug.
+
+# Update 11.0.0 - 10 January, 2023
+ - Implemented all bits to other computer data combinations
+ - Implemented all nibbles to other computer data combinations
+ - Implemented all bytes to other computer data combinations
+
+# Update 10.0.0 - 10 January, 2023
+ - Implemented bits to nibbles tool.
+ - Implemented bits to bytes tool.
+ - Implemented bits to kilobits tool.
+ - Implemented HEIC to JPG tool.
+ - Implemented HEIC to GIF tool.
+ - Implemented HEIC to PNG tool.
+ - Implemented Turnstile Cloudflare captcha system.
+ - Implemented Code Redeemed webhook in the admin panel.
+ - Implemented user deletion email notification for admins.
+ - Implemented unconfirmed users auto deletion feature, configurable via the admin panel.
+ - Implemented a better color picker for all color type inputs.
+ - Improved performance of the whole script & cron job by not running queries to the database when not needed.
+ - Now you can also upload Webp images in most image upload related forms.
+ - Fixed issues with ico, bmp & gif converters.
+
 # Update 9.0.0 - 27 October, 2022
  - Implemented unit converter tools for seconds, minutes, hours, days, weeks, months, years.
  - Implemented celsius to kelvin converter tool.
