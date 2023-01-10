@@ -1,5 +1,4 @@
 # Update 13.0.0 - 10 January, 2023
-Make sure to re-configure your plans settings for the new additional domains configuration.
  - Implemented all kibibits to other computer data combinations
  - Implemented all kilobytes to other computer data combinations
  - Implemented the ability to set Meta keywords for blog posts.
