@@ -1,3 +1,24 @@
+# Update 14.0.0 - 01 March, 2023
+ - Implemented & released the ✉️ Email signatures plugin.
+ - Implemented Projects system to help categorize resources (for email signatures).
+ - Implemented palindrome checker tool.
+ - Implemented RIPEMD128 hash tool.
+ - Implemented RIPEMD160 hash tool.
+ - Implemented RIPEMD256 hash tool.
+ - Implemented RIPEMD320 hash tool.
+ - Implemented teams & teams members statistics, viewable from the admin panel.
+ - Implemented User city & continent tracking, viewable from the admin panel.
+ - Implemented Admin panel statistics for: Continents, Countries & Devices (including visual map).
+ - Implemented Admin panel plan duplication feature.
+ - Implemented user logs city & continent tracking as well.
+ - Implemented caching for plans making certain pages faster.
+ - Updated User API Admin endpoint with all the user details.
+ - Updated Admin User View page to display more user details.
+ - Improved the chart UI when having a lot of dates selected.
+ - Fixed meta checker tool not properly displaying utf8 characters.
+ - Fixed a few translation issues with some image converters.
+ - Fixed plans and invoice pages not using custom decimal and thousand separators.
+
 # Update 13.0.0 - 10 January, 2023
  - Implemented all kibibits to other computer data combinations
  - Implemented all kilobytes to other computer data combinations
