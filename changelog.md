@@ -1,3 +1,18 @@
+# Update 15.0.0 - 16 April, 2023
+ - Implemented the new Broadcasts system which allows you to easily send bulk emails to your users.
+ - Implemented all megabits to other computer data combinations tools.
+ - Implemented HTTP/2 checker tool.
+ - Implemented MercadoPago one time payment gateway.
+ - Implemented the ability to set a maximum upload size for payment proofs of the Offline Payment type of payments, via the admin panel.
+ - Implemented the ability to set the amount of days when the system should send a plan expiry reminder, via the admin panel.
+ - Improved the admin panel user dropdown menu in the sidebar with all the available account links.
+ - Improved the admin panel codes page to be able to filter redeemed codes and payments.
+ - Improved the admin panel taxes page to be able to filter payments based on particular used taxes.
+ - Improved YooKassa payment gateway to support the receipt parameter.
+ - Fixed bug with similar tools widget not properly showing views number.
+ - Fixed index tool searchbar not working properly in some cases.
+ - Multiple other code fixes & improvements throughout the product.
+
 # Update 14.0.0 - 01 March, 2023
  - Implemented & released the ✉️ Email signatures plugin.
  - Implemented Projects system to help categorize resources (for email signatures).
