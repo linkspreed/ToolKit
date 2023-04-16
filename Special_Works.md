@@ -1,3 +1,6 @@
+### 16.04.2023 (announcement Toolkit)
+- We wanted to let you know that we're busy bees working on our website toolkit. Stay tuned for some awesome updates that'll make your web design life a whole lot easier. #websitedesign #webtoolkit #comingsoon
+
 ### 01.03.2023 (announcement Toolkit)
 - https://github.com/linkspreed/Toolkit/blob/main/changelog.md
 - The entire changelog is now available on Github.
