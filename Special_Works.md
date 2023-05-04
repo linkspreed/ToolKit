@@ -1,3 +1,6 @@
+### 04.05.2023 (announcement Toolkit)
+- 🚨 Exciting news for Toolkit users 🚨 We just released the Email Signature Plugin! 💻💬✉️ Alongside the free & unlimited API, Email Signature is an additional benefit included in every Toolkit.ga account for free! 🙌 Sign up now & enjoy! #toolkit #emailsignature #freeAPI #signup #onthehouse
+
 ### 16.04.2023 (announcement Toolkit)
 - We've just released Version 15.0.0 for the Toolkit platform, finally! 🎉 #newrelease #toolkit15 #technology
 
