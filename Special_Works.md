@@ -1,3 +1,9 @@
+### 06.06.2023 (announcement Toolkit)
+- 🚨 Hey guys! Big news! 🚨 Our favorite platform, Toolkit, is back online and now accessible under the domain https://toolkit.gq. 🔧💻 Who else is excited to start using it again? 🤩 #Toolkit #OnlineAgain #TechNews 💬 Have you tried it out yet? What's your favorite feature?
+
+### 06.06.2023 (announcement Toolkit)
+- 🚨Attention🚨: Our platform Toolkit is temporarily down due to 7 million TLD domains .ga being deleted. But don't worry, our team is working hard to get the platform back up and running ASAP! 🔧 Check out our Github for updates and details. Have you ever experienced a similar outage before? #TechProblems #UpdateNeeded
+
 ### 04.05.2023 (announcement Toolkit)
 - 🚨🔍 Exciting news! 🎉🎉 Toolkit.ga is now connected with the Google Safe Browsing API 🤝👨‍💻. This means that all user URLs will now be checked for safety, keeping you safer online 🛡️🌐. Plus, we've also added some nifty new tools with this API.
 
