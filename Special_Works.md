@@ -1,3 +1,27 @@
+### 11.06.2023 (announcement Toolkit)
+- 🎉 We have exciting news, folks! 🚀 Our team just released Toolkit v16.0.0! 🙌🏼 This newest version comes packed with awesome features and improvements. 😍 Who's already started using it? Let us know in the comments! 👇🏼 #Toolkit16 #ProductivityTools #Updates #Teamwork 💻👨‍💼👩‍💼
+
+### 11.06.2023 (announcement Toolkit)
+- https://github.com/linkspreed/Toolkit/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 11.06.2023 (announcement Toolkit)
+- The launch of version 16.0.0 of **Toolkit** was successful! 🥳
+- The new update is live now :)
+- https://toolkit.ga 🔗
+
+### 11.06.2023 (announcement Toolkit)
+- We are now starting the launch of v16.0.0.
+
+### 11.06.2023 (announcement Toolkit)
+- The servers are now ready for the launch of version 16.0.0 for **Toolkit**.
+
+### 11.06.2023 (announcement Toolkit)
+- The code is now ready for the launch of version 16.0.0 for **Toolkit**.
+
+### 11.06.2023 (announcement Toolkit)
+-  **Toolkit** gets a big update today - we are going to launch v16.0.0. 😍
+
 ### 06.06.2023 (announcement Toolkit)
 - 🚨 Hey guys! Big news! 🚨 Our favorite platform, Toolkit, is back online and now accessible under the domain https://toolkit.gq. 🔧💻 Who else is excited to start using it again? 🤩 #Toolkit #OnlineAgain #TechNews 💬 Have you tried it out yet? What's your favorite feature?
 
