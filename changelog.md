@@ -1,3 +1,12 @@
+# Update 16.0.0 - 11 June, 2023
+ - Implemented OpenAI API - Auto translation for the Languages section in the admin panel.
+ - Improved the Admin panel users page - added is_subscribed filter.
+ - Improved the documentation pages with code syntax highlighter for better visuals.
+ - Improved the plans payment switcher button group on the homepage.
+ - Improved the landing page with dynamic animations.
+ - Updated MaxMind City & Country databases for IP detection tracking to the latest versions.
+ - Fixed HTTP headers tool not working properly in some cases.
+
 # Update 15.0.0 - 16 April, 2023
  - Implemented the new Broadcasts system which allows you to easily send bulk emails to your users.
  - Implemented all megabits to other computer data combinations tools.
