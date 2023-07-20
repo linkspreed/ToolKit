@@ -1,3 +1,31 @@
+# Update 17.0.0 - 20 July, 2023
+ - Implemented new internal notifications system for users and admins.
+ - Implemented internal notifications broadcasts to users from the admin panel.
+ - Implemented the ability to customize the whole bootstrap theme colors via the admin panel.
+ - Implemented the ability to track broadcasts links clicks, views and show them in a proper new broadcasts statistics page.
+ - Implemented the ability to duplicate broadcasts.
+ - Implemented the ability to enable/disable the API system completely via the Admin panel.
+ - Implemented tooltips over the Create buttons (ex: Link create button) where the usage & limits of your current plans are shown.
+ - Implemented welcome emails to freshly registered users.
+ - Implemented the ability for the user to specify custom notes for invoices and improved the invoice look.
+ - Implemented the ability to force HTTPS requests.
+ - Implemented the ability to temporarily lock a user on multiple failed login attempts.
+ - Implemented the ability to temporarily lock a user on multiple failed password reset attempts.
+ - Implemented the ability to temporarily lock a user on multiple failed resend activation attempts.
+ - Implemented the ability to temporarily lock a user on multiple registration attempts.
+ - Implemented LinkedIn social login feature.
+ - Implemented the ability to only allow social logins registrations.
+ - Implemented the ability to allow and display newsletter sign up checkbox on the Registration page.
+ - Implemented new broadcasts filtering system by: subscription status, status, plans, source, continents, countries.
+ - Implemented caching for all the custom pages and pages categories for higher performance.
+ - Implemented caching for all the blog posts & blog categories for higher performance.
+ - Implemented caching for plan payment page for higher performance.
+ - Implemented intelligent performance optimization that will literally 100x and use less server resources for certain cached pages.
+ - Improved the account settings page look.
+ - Improved the link statistics pages looks by adding OS and Browser icons.
+ - Improved the admin panel dashboard - added online users counter.
+ - Improved all the chart looks, speed and animations.
+
 # Update 16.0.0 - 11 June, 2023
  - Implemented OpenAI API - Auto translation for the Languages section in the admin panel.
  - Improved the Admin panel users page - added is_subscribed filter.
